@@ -4,8 +4,9 @@
 	width:400px;
 	align-items:center;
 	display:flex;
+
 	justify-content:space-evenly;
-	border-top-width:2px;
+	border-top:2px;
 }
 
 #box{
@@ -14,6 +15,7 @@
 	height:200px;
 	width:200px;
 	display:flex;
+	color:purple;
 	justify-content:center;
 	align-items:center;
 	
