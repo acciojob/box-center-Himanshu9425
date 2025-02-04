@@ -5,6 +5,7 @@
 	align-items:center;
 	display:flex;
 	justify-content:space-evenly;
+	border-top-width:2px;
 }
 
 #box{
